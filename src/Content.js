@@ -68,7 +68,7 @@ export const content = {
     hero_content: [
       {
         count: "8+",
-        text: "Years of Experinse in Web development",
+        text: "Years of Experience in Web development",
       },
       {
         count: "20+",
@@ -81,7 +81,7 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
-        name: "Ract Js",
+        name: "React.js",
         para: "Core Competencies in React.js",
         logo: figma,
       },
@@ -106,7 +106,7 @@ export const content = {
         logo: sketch,
       },
       {
-        name: "Javascript",
+        name: "JavaScript",
         para: "Problem-solving and analytical thinking, Communication and teamwork, Adaptability in fast-changing tech environments, Attention to detail and code quality",
         logo: sketch,
       },
@@ -126,12 +126,12 @@ export const content = {
         logo: sketch,
       },
       {
-        name: "PROJECT MAMAGEMENT",
+        name: "PROJECT MANAGEMENT",
         para: "planning, organizing, and overseeing tasks and resources to achieve specific goals within a defined timeframe and budget.",
         logo: sketch,
       },
       {
-        name: "CUSTOMER SERVICE REPRESNTATIVE",
+        name: "CUSTOMER SERVICE REPRESENTATIVE",
         para: "frontline professional who interacts with customers on behalf of a company to resolve issues, answer questions, provide information, and ensure a positive experience",
         logo: sketch,
       },
@@ -183,7 +183,7 @@ export const content = {
       {
         title: "NOLT FINANCE LTD",
         image: project5,
-      },
+      }
     ],
   },
   Testimonials: {
@@ -249,3 +249,4 @@ export const content = {
     text: "All © Copy Right Reserved 2025",
   },
 };
+

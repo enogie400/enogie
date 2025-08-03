@@ -183,7 +183,7 @@ export const content = {
       {
         title: "NOLT FINANCE LTD",
         image: project5,
-      }
+      },
     ],
   },
   Testimonials: {
@@ -192,25 +192,25 @@ export const content = {
     testimonials_content: [
       {
         review:
-          "“Working with Enogie Omorogbe was a game changer for our online presence. They took the time to understand our vision and delivered a beautiful, functional website ahead of schedule. We've already seen an increase in traffic and customer inquiries!”",
+          "Working with Enogie Omorogbe was a game-changer for our online presence. They took the time to understand our vision and delivered a beautiful, functional website ahead of schedule. We've already seen an increase in traffic and customer inquiries!”",
         img: avatar1,
         name: "MR ELO ZINO",
       },
       {
         review:
-          "“From start to finish, the team was professional, communicative, and full of creative ideas. They built a custom platform that perfectly fit our startup’s needs. We couldn’t have asked for a better partner in this critical phase of our business.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
+          "From start to finish, the team was professional, communicative, and full of creative ideas. They built a custom platform that perfectly fit our startup’s needs. We couldn’t have asked for a better partner in this critical phase of our business.In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstra”",
         img: avatar2,
         name: "David L., Co-Founder, LaunchHub",
       },
       {
         review:
-          "“Our new website not only looks amazing but also runs smoothly and converts better. The integrated shopping cart and inventory management features have saved us hours of manual work every week!”",
+          "Our new website not only looks amazing but also runs smoothly and converts better. The integrated shopping cart and inventory management features have saved us hours of manual work every week!”",
         img: avatar3,
         name: "MRS GLORIA  EMUMEJAKPOR",
       },
       {
         review:
-          "“I finally have a portfolio that reflects my work and personality. The team really listened to what I wanted and turned it into something better than I imagined. I’m proud to send people to my site now.”",
+          "I finally have a portfolio that reflects my work and personality. The team really listened to what I wanted and turned it into something better than I imagined. I’m proud to send people to my site now.”",
         img: avatar4,
         name: "Tara S",
       },
@@ -225,7 +225,7 @@ export const content = {
     btnText: "Hire Me",
   },
   Contact: {
-    title: "Contect Me",
+    title: "Contact Me",
     subtitle: "GET IN TOUCH",
     social_media: [
       {
@@ -249,6 +249,7 @@ export const content = {
     text: "All © Copy Right Reserved 2025",
   },
 };
+
 
 
 

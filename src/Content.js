@@ -12,7 +12,7 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-//import project1 from "./assets/images/projects/teco.png";
+import project1 from "./assets/images/projects/teco.png";
 import project2 from "./assets/images/projects/img2.png";
 import project3 from "./assets/images/projects/img3.png";
 import project4 from "./assets/images/projects/img4.png";
@@ -164,6 +164,10 @@ export const content = {
     subtitle: "Recent Projects",
     image: person_project,
     project_content: [
+       {
+        title: "Teco Group Nig Ltd",
+        image: project1,
+      },
       {
         title: "Anchoria Investment",
         image: project2,

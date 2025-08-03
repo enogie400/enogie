@@ -165,10 +165,6 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Techo Group Ng Ltd",
-       // image: project1,
-      },
-      {
         title: "Anchoria Investment",
         image: project2,
       },
@@ -249,5 +245,6 @@ export const content = {
     text: "All © Copy Right Reserved 2025",
   },
 };
+
 
 
